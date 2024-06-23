@@ -13,3 +13,4 @@ Creating a Books Read List Application with Data Crud
 <img src="https://github.com/gamzeakyuz/SwiftDataCrudApp/assets/95036569/2818a167-0b3f-4481-9a0d-16164f24db40" width="400" height="700" />
 
 <img src="https://github.com/gamzeakyuz/SwiftDataCrudApp/assets/95036569/e9dfce64-0b31-4077-9e19-4fd3b815b768" width="400" height="700" />
+
